@@ -13,3 +13,12 @@
 ```
 > sms bomb.py dosyasını açıp kullanmaya başlayabilirsiniz.
 ```
+
+## Mobil :
+```
+> Mobil cihazında çalıştırmak için ilk olarak pyroid 3 uygulamasını indir.
+
+> Uygulamayı açtıktan sonra sağ üstten dosya işaretine tıklayıp open seçeneğine tıklayıp ve indirdiğin sms bomb.py dosyasını seç.
+
+> Sağ alttaki sarı renkli çalıştır tuşuna dokunup kullanmaya başlayabilirsin.
+```
