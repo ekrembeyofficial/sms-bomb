@@ -853,7 +853,7 @@ def send(number, amount, worker_amount):
     restart()
 
 def watermark():
-    print("SMS Tool/dc:htcslayer")
+    print("SMS Tool | developed by Emolox Community")
 
 def get_number():
     global clear
